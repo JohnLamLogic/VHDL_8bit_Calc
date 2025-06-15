@@ -1,6 +1,7 @@
 # 8-Bit VHDL Calculator
 
 A complete 8-bit calculator designed in VHDL for FPGA implementation. It performs signed addition and subtraction using two's complement and displays results via 7-segment displays.
+*THIS WAS DONE AS A GROUP EFFORT WITH CLASSMATES*
 
 > A hardware-based arithmetic unit demonstrating modular design and overflow detection in VHDL.
 
